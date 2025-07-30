@@ -8,6 +8,7 @@ This project transforms a Duckiebot, an affordable robotics education platform, 
 
 ### Lane Following
 The Duckiebot uses a bird’s-eye view transformation to detect and follow lane markings on the road. It identifies the lane center based on edge detection and adjusts its steering with a PD controller to stay on course, ensuring smooth navigation through straight and curved paths.
+- [Video Demo of Lane Following](https://youtu.be/chMo7etrS-4)
 
 ### AprilTag Detection
 The system detects AprilTags—small markers with unique IDs—placed in the environment. When it spots Tag ID 51 at a specific distance, the Duckiebot stops for 2 seconds, indicated by a red LED, then resumes with a cyan LED, demonstrating precise navigation control.
