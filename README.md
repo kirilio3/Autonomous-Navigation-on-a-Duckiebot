@@ -1,4 +1,5 @@
 # Autonomous Navigation on a Duckiebot
+## This project runs on Ubuntu Linux
 ## Components:
 ### 1. Bird eye view of homography estimation
 #### https://youtu.be/XEh2SXvbXc0
