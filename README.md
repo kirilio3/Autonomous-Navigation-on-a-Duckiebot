@@ -26,7 +26,7 @@ The Duckiebot calculates its movement using wheel encoder data, enabling it to p
 
 ### Navigation Strategy
 The project follows a two-phase approach: first, it follows lanes for a set distance and executes an arc turn; then, it continues lane following while avoiding obstacles. This phased navigation showcases a practical autonomous driving sequence.
-- [Video Demo of Lane following with all components](https://youtu.be/LtNKioPx3Mg)
+- [Video Demo of Lane following](https://youtu.be/LtNKioPx3Mg)
 
 ## Experimental Results
 - **Lane Following**: The Duckiebot stayed aligned with lanes, with minor oscillations on sharp curves.
