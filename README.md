@@ -1,6 +1,9 @@
 # Autonomous Navigation on a Duckiebot
 ## This project runs on Ubuntu Linux
-## Duckiebot is a low-cost platform for robotics education, which provides an ideal testbed for exploring computer vision techniques in autonomous navigation [1]. This project aims to integrate homography estimation, AprilTag detection, optical flow, and augmented reality (AR) to enable a Duckiebot to navigate lanes, avoid obstacles, and enhance visualization. Motivated by the need to apply classroom concepts like perspective transforms and feature tracking, I developed a ROS-based system to process the Duckiebot’s camera feed in real-time. The system achieves robust lane following, precise AprilTag-based stopping, and obstacle avoidance, while AR overlays add an interactive dimension.
+
+## Introduction
+This project transforms a Duckiebot, an affordable robotics education platform, into an autonomous navigation system. By integrating advanced computer vision techniques, the Duckiebot can follow lanes, avoid obstacles, detect specific markers to stop, and display augmented reality (AR) overlays. Built using the Robot Operating System (ROS), this system processes the Duckiebot’s camera feed in real-time, making it a practical tool for learning about robotics and autonomous driving.
+
 
 ## Components:
 ### 1. Bird eye view of homography estimation
